@@ -23,7 +23,8 @@
         {
             "id": "BEL",
             "name": "Belgium",
-            "description": "Belgium is known for its chocolate, beer, and as a hub for international organizations, including the European Union and NATO. The country has a complex political structure with multiple languages (Dutch, French, and German) and regions. Belgium is also known for its medieval towns and Renaissance architecture."
+            "description": "Belgium is known for its chocolate, beer, and as a hub for international organizations, including the European Union and NATO. The country has a complex political structure with multiple languages (Dutch, French, and German) and regions. Belgium is also known for its medieval towns and Renaissance architecture.",
+            "hostcountry":"1920"
         },
         {
             "id": "BUL",
